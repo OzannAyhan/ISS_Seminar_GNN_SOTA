@@ -5,10 +5,6 @@
 
 Infomations Systems Seminar Project: GNN's as State of the Art Recommender Systems
 
-Autors: Ali Jaabous, Bora Eguz, Ozan Ayhan
-
-Supervisor: Vincent Gurgul
-
 This repository will contain the necessary scripts to reproduce our project proceedings. To use the models and reproduce our results or modified ones you can easily
 call this Colab Notebook:
 
