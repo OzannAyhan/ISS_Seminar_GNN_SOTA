@@ -1,0 +1,4 @@
+torch_geometric-2.5.1-py3
+sentence_transformers-2.5.1-py3
+node2vec networkx-0.4.6-py3
+optuna-3.6.0-py3
