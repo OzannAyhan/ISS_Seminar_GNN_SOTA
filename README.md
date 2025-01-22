@@ -1,2 +1,0 @@
-# ISS_Seminar_GNN_SOTA
-ISS_Seminar_GNN_SOTA
