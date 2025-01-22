@@ -1,4 +1,5 @@
 # ISS_Seminar_GNN_SOTA
+<<<<<<< HEAD
 
 --------------------------------------------------------------------------------------------
 
@@ -20,3 +21,6 @@ The scheme below is intended to illustrate our framework. A detailed elaboration
 
 ![image](https://github.com/ISSeminarGNNSOTA/ISS_Seminar_GNN_SOTA/assets/162732442/bf387468-62ab-4ebc-a892-901f0dcfe791)
 
+=======
+ISS_Seminar_GNN_SOTA
+>>>>>>> 18f318d8a55cc4624533405f033b7cb4758f1735
