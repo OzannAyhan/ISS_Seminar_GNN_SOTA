@@ -1,4 +1,4 @@
-#Ali Jaabous
+
 #GraphDataBuilder2Fold
 
 import numpy as np
