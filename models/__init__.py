@@ -1,4 +1,3 @@
-# Ali Jaabous
 # __init__- file for the models 
 
 from models.graph_convolutional_network import GCN
