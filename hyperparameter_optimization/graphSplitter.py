@@ -1,4 +1,4 @@
-# Ali Jaabous
+
 # Graph Splitter for Standard Split 80 - 10 - 10
 
 import torch
