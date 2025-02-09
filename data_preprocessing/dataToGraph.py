@@ -1,4 +1,4 @@
-# Ali Jaabous
+
 # DataToGraph
 
 import torch
